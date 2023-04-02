@@ -10,11 +10,11 @@ felix.gorges@selbetti.com.br
 
 ### SafePrint
 
-### Atividades
+#### Atividades
 
 - [x] Call de levantamento
 - [x] Aguardando leitor RF para start na POC
-- [ ] 
+- [ ] POC será realizado na impressora Faturamento.
 
 ## Smartcount
 
