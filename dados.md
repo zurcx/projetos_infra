@@ -1,6 +1,6 @@
 # Projetos Selbetti
 
-## retenção de impressão
+## Retenção de Impressão
 	
 Félix Gorges
 Analista de Suporte e Soluções
@@ -34,12 +34,11 @@ felix.gorges@selbetti.com.br
 
 - [x] Call de levantamento
 - [ ] Migração para Cloud
+- [ ] Verificar TR DI
+
 
 Max Ruy de Souza Neto
 CONSULTOR EM SOLUÇÕES ECM E BPMS
 max.souza@selbetti.com.br
 (47) 3441-6000
-
-
-
 
