@@ -18,9 +18,22 @@ felix.gorges@selbetti.com.br
 
 ## Smartcount
 
+#### Atividades
+
+- [x] Call de levantamento
+
 ## Proativo de Tonner
 
+#### Atividades
+
+- [ ] Verificar custo pois TR não comtempla
+
 ## SmartShare
+
+#### Atividades
+
+- [x] Call de levantamento
+- [ ] Migração para Cloud
 
 Max Ruy de Souza Neto
 CONSULTOR EM SOLUÇÕES ECM E BPMS
@@ -28,6 +41,5 @@ max.souza@selbetti.com.br
 (47) 3441-6000
 
 
-### migração para cloud (Selbetti)
 
 
