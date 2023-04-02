@@ -8,13 +8,13 @@ felix.gorges@selbetti.com.br
 (47) 3441-6000, (47) 99903-5131
 
 
-### SafePrint
+    ### SafePrint
 
-#### Atividades
+        #### Atividades
 
-- [x] Call de levantamento
-- [x] Aguardando leitor RF para start na POC
-- [ ] POC será realizado na impressora Faturamento.
+            - [x] Call de levantamento
+            - [x] Aguardando leitor RF para start na POC
+            - [ ] POC será realizado na impressora Faturamento.
 
 ## Smartcount
 
@@ -29,5 +29,9 @@ max.souza@selbetti.com.br
 
 
 ### migração para cloud (Selbetti)
+
+#### Atividades
+
+- [ ] Envio dump base dados (smart)
 
 
